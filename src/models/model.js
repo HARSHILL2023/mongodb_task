@@ -8,4 +8,4 @@ const noteschema=mongoose.Schema({
 
 const newmodel= mongoose.model("note",noteschema)
 
-module.exports = newmodel;
+module.exports = newmodel;  
